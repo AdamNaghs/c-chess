@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include "chess.h"
+#include "../include/chess.h"
 
 /*  Define movement vectors for each piece type */
 static const Vec2 PAWN_PASSIVE_MOVES[] = {{0, 1}};

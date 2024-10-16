@@ -1,4 +1,4 @@
-#include "common.h"
+#include "../include/common.h"
 
 /* gets from stdin*/
 char *input(char final_char, size_t *ret_len)

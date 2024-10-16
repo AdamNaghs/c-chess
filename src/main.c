@@ -1,4 +1,4 @@
-#include "chess.h"
+#include "../include/chess.h"
 #include <stdio.h>
 
 int main(void)

@@ -1,5 +1,5 @@
-#include "move.h"
-#include "common.h"
+#include "../include/move.h"
+#include "../include/common.h"
 
 void legal_move_add_next(LegalMove* dest, LegalMove add)
 {
